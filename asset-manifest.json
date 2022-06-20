@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/motheanalyst/static/css/main.7e50ef11.css",
-    "main.js": "/motheanalyst/static/js/main.221a9e45.js",
+    "main.js": "/motheanalyst/static/js/main.62678ca9.js",
     "static/media/ElGhazala.mp3": "/motheanalyst/static/media/ElGhazala.806a34a7dec7bb0070f2.mp3",
     "static/media/me.png": "/motheanalyst/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/meb.jpg": "/motheanalyst/static/media/meb.fb4452e7f286d3636ef9.jpg",
     "static/media/MCV.pdf": "/motheanalyst/static/media/MCV.cdc5d6dc1ac1984550f4.pdf",
-    "static/media/meb.jpg": "/motheanalyst/static/media/meb.839928276b844783fb03.jpg",
     "static/media/portfolio2.jpg": "/motheanalyst/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
     "static/media/portfolio1.jpg": "/motheanalyst/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
     "static/media/portfolio3.jpg": "/motheanalyst/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "index.html": "/motheanalyst/index.html",
     "main.7e50ef11.css.map": "/motheanalyst/static/css/main.7e50ef11.css.map",
-    "main.221a9e45.js.map": "/motheanalyst/static/js/main.221a9e45.js.map"
+    "main.62678ca9.js.map": "/motheanalyst/static/js/main.62678ca9.js.map"
   },
   "entrypoints": [
     "static/css/main.7e50ef11.css",
-    "static/js/main.221a9e45.js"
+    "static/js/main.62678ca9.js"
   ]
 }
